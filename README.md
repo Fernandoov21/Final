@@ -26,7 +26,7 @@ Fue necesario crear una aplicación básica de manera que no se invirtiera tanto
 
 Posteriormente el sistema se amplió en cuanto a los componentes, esto considerando los elementos que se habían listado en un principio, es decir, la inclusión de componentes tales como la pantalla LCD, el Buzzer y el sensor detector de obstáculos.
 
-[![componnnete.png](https://i.postimg.cc/XNT97dDc/componnnete.png)](https://postimg.cc/DmPSxJh8)
+
 
 [![32.png](https://i.postimg.cc/jjd7kXLK/32.png)](https://postimg.cc/WdCzd0Gf)
 
